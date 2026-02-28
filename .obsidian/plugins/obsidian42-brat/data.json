@@ -1,0 +1,24 @@
+{
+  "pluginList": [
+    "nhaouari/obsidian-textgenerator-plugin"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "nhaouari/obsidian-textgenerator-plugin",
+      "version": "0.8.1"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": true,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "globalTokenName": "",
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
