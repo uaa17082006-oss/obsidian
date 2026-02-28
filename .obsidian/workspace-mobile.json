@@ -35,8 +35,7 @@
               "title": "Стерилизация"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Стерилизация.md",
+            "file": "Асептика. Антисептика. Порядок сбора, хранения, удаления отходов..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -183,10 +182,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "b986cee7109efa68",
+  "active": "a409e52f909d122b",
   "lastOpenFiles": [
+    "Стерилизация.md",
     "Асептика. Антисептика. Порядок сбора, хранения, удаления отходов..md",
-    "Терапия",
-    "Стерилизация.md"
+    "Терапия"
   ]
 }
